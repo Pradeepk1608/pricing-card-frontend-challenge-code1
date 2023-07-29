@@ -111,7 +111,7 @@ ul{
   font-size: 0.8rem;
 }
 /* To make the website responsive */
-@media (max-width: 650) {
+@media (max-width: 650px) {
   #bottom-right-section, #bottom-left-section, #card{
     width :100%;
     height :auto;
